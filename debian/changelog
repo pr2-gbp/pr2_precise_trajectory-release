@@ -1,0 +1,19 @@
+ros-hydro-pr2-precise-trajectory (1.0.1-0quantal) quantal; urgency=high
+
+  * Catkinization complete.
+  * things
+  * Added fixes
+  * Moved action -> msg
+  * Pckage.xml
+  * remove makefile
+  * Initial conversion
+  * Removed stack xml for hydro devel
+  * Add ignores.
+  * Stackagify.
+  * Move everything down a level
+  * Moving ros 0.5 branch into trunk
+  * Contributors: Austin Hendrix, David Lu, Erik Karulf, TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 10 Sep 2014 04:00:00 -0000
+
+
