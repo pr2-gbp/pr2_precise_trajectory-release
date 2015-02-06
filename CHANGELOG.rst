@@ -2,6 +2,9 @@
 Changelog for package pr2_precise_trajectory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2015-02-06)
+------------------
+
 1.0.1 (2014-09-10)
 ------------------
 * Catkinization complete.
