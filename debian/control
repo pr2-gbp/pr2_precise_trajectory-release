@@ -1,0 +1,12 @@
+Source: ros-indigo-pr2-precise-trajectory
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-message-runtime, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-gripper-sensor-msgs, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-trajectory-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-precise-trajectory
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-gripper-sensor-msgs, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-trajectory-msgs
+Description: This does some precise trajectory stuff, I'm not really sure though. :D
